@@ -1,3 +1,7 @@
+
+Notice this system will be depreciated shortly in favour of a new [Membership System](https://github.com/southlondonmakerspace/membership-system)
+-----
+
 # South London Makerspace Membership Management Service
 
 This is a web service that allows users to become members of the South London Makerspace and manage their membership.
